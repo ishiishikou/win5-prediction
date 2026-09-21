@@ -1,0 +1,2 @@
+date,record_type,audited,confirmed_stake_yen,payout_yen,net_yen,return_rate,net_roi,race_coverage,win5_hit,winning_combination,win5_payout_per_100_yen,notes
+2026-09-20,historical-import,false,3000,0,-3000,0,-1,1,false,8-12-10-4-8,135848000,"Repository created after result; extra 100-yen proposed ticket was not confirmed as purchased"
